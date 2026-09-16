@@ -1,0 +1,7 @@
+{
+  "name": "MINING-OS: Autonomous Bitcoin Mining Orchestrator",
+  "description": "Multi-agent Bitcoin mining operating system inspired by Cursor IDE. Features Management, Soft Engineering, and Hard Engineering delegates communicating via a Shared Data Pool, ML-driven efficiency optimization, and strict $0.06/kWh energy ceiling enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
